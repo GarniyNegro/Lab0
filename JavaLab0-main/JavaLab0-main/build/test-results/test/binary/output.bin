@@ -1,0 +1,30 @@
+2Result for N=16 and K=3: Quotient=5, Remainder=1
+2Result for N=17 and K=4: Quotient=4, Remainder=1
+2Result for N=25 and K=5: Quotient=5, Remainder=0
+3Result for N=10 and K=10: Quotient=1, Remainder=0
+2Result for N=5 and K=10: Quotient=0, Remainder=5
+(File size in kilobytes (2048 bytes): 2
+(File size in kilobytes (1023 bytes): 0
+(File size in kilobytes (3072 bytes): 3
+'File size in kilobytes (512 bytes): 0
++Result for N=5, A=1, D=2: [1, 3, 5, 7, 9]
+(Result for N=4, A=0, D=3: [0, 3, 6, 9]
+(Result for N=3, A=-2, D=1: [-2, -1, 0]
+1Result for N=6, A=10, D=-1: [10, 9, 8, 7, 6, 5]
+Number 4 is even: true
+Number 5 is even: false
+Result for 5: 6
+Result for 10: 11
+Result for -3: -5
+Result for -1: -3
+Result for 0: 10
+Result for A=1 and B=5:
+4 3 2
+
+Count: 3
+Result for A=2 and B=4:
+3
+
+Count: 1
+Result for A=3 and B=3:
+No numbers between 3 and 3
